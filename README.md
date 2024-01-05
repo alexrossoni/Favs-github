@@ -7,4 +7,5 @@ Tela inicial
 ![image](https://github.com/alexrossoni/Favs-github/assets/103969200/66a10486-bb4d-4ae7-bc1e-a5bc8399d462)
 
 Acessando um repositório
-![image](https://github.com/alexrossoni/Favs-github/assets/103969200/d1c8317f-04d0-41b3-bc44-be082c257f88)
+![image](https://github.com/alexrossoni/Favs-github/assets/103969200/c92f56b5-d46e-491d-a0b3-d4c647586747)
+
